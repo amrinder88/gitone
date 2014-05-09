@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 This is a test file to practice git. Adding some lines to test git features. azjvnsfvnv
 =======
-This is a test file to practice git. Adding some lines to test git features. azjvnsfvnv. modifying test file.
+This is a test file to practice git. Adding some lines to test git features. azjvnsfvnv
 >>>>>>> test
