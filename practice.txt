@@ -1,1 +1,1 @@
-this is a practice file for git. Adding some more text to practice other git features.
+this is a practice file for git. Adding some more text to practice other git features. I created new branch to see how branching and merging works.
